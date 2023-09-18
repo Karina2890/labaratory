@@ -2,5 +2,5 @@
 
 int main()
 {
-     printf("Карина\n");
+     printf("Алия\n");
 }
